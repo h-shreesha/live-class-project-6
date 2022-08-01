@@ -2,6 +2,11 @@
 
 By Shreesha
 
+Here's the Live Deployed Website of ![Project06Badge](https://img.shields.io/badge/Project-06-red)
+
+## Project 06  [DEPLOYED LINK](https://project06-plant-home-page.netlify.app/)
+
+
 ![websiteSnap](./readmeImages/websiteSnap.png)
 
 # What did I learn in this project
